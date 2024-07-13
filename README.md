@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Getting Started
 Download the pre-trained models using the following links and copy them under `./snapshots` directory.
 
-[Places2](https://drive.google.com/drive/folders/158ch9Psjop0mQEdeIp9DKjrYIGTDsZKN) | [CelebA](https://drive.google.com/drive/folders/13JgMA5sKMYgRwHBp4f7PBc5orNJ_Cv-p) | [Paris-StreetView](https://drive.google.com/drive/folders/1hMGVz6Ck3erpP3BRNzG90HNCJl85kveN)
+[Places2](https://drive.google.com/file/d/1uae6Gl6vC-7y6NvGi-eF1lfGR8d-ZJgA/view?usp=drive_link) | [CelebA](https://drive.google.com/file/d/1t0QXRx0PZqYmFlwhefg48q3qiXCet__J/view?usp=drive_link) | [Paris-StreetView](https://drive.google.com/file/d/1MTtB9M7bpjKQ_i8cywfGR6V0WBU_R4WR/view?usp=drive_link)
 ### Testing
 
 To test the model, you run the following code.
