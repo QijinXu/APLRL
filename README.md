@@ -1,6 +1,16 @@
 ## Adaptive Prior and Long-Range Dependency-Based Learners for Image Inpainting
 This is the official PyTorch implementation of APLRL.
+## Prerequisites
+- Python 3.7
+- PyTorch 1.2
+- NVIDIA GPU + CUDA cuDNN
+### Installation
 
+- Install python requirements:
+
+```
+pip install -r requirements.txt
+```
 ### Datasets
 
 **Image Dataset.** We evaluate the proposed method on the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), [Paris StreetView](https://github.com/pathak22/context-encoder), and [Places2](http://places2.csail.mit.edu/) datasets, which are widely adopted in the literature. 
