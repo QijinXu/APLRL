@@ -49,8 +49,9 @@ If any part of our paper and repository is helpful to your work, please generous
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Adaptive Prior and Long-Range Dependency-Based Learners for Image Inpainting}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={35},
+  number={11},
+  pages={10742-10755},
   doi={10.1109/TCSVT.2025.3574529}}
 ```
+
